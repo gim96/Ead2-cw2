@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#about {
+  background-color: white;
+}
+#proccess {
+  background-color: white;
+}
+#home {
+  background-color: white;
+}
+
+.arrow {
+  background-color: silver;
+}
+.arrow:hover {
+  background-color: gray;
+}
